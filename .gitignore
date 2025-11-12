@@ -1,0 +1,13 @@
+
+__pycache__/
+.env
+.pytest_cache/
+.DS_Store
+.venv/
+.envrc
+.coverage
+dist/
+build/
+*.log
+*.sqlite*
+dinushi_agent.sqlite3
